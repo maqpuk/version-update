@@ -1,0 +1,4 @@
+29.08.2022 ALFA
+
+-add left menu.
+-fix crashes
